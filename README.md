@@ -1,6 +1,7 @@
 # 🌾 AgroMart PHP MySQL eCommerce
 
 ![PHP](https://img.shields.io/badge/PHP-Backend-blue)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
