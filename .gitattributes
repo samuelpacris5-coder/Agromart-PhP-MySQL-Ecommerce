@@ -1,0 +1,17 @@
+# Force GitHub to treat certain files as PHP
+*.php linguist-language=PHP
+
+# Force SQL files to be counted as SQL
+*.sql linguist-language=SQL
+
+# Optionally force JS or CSS if you have frontend files
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
+
+# Ignore folders you don't want counted (vendor, node_modules)
+vendor/* linguist-vendored
+node_modules/* linguist-vendored
+
+git add .gitattributes
+git commit -m "Add .gitattributes to set languages"
+git push
